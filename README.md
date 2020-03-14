@@ -17,6 +17,6 @@ You need to do this :-
 Contact us
 
 Mail me :- pandatd@protonmail.com<br>
-Follow us me on Instagram :- https://www.instagram.com/mr__punekar <br>
-Follow us me on Twitter :- https://www.twitter.com/PANDA__TD<br>
+Follow us  on Instagram :- https://www.instagram.com/mr__punekar <br>
+Follow us  on Twitter :- https://www.twitter.com/PANDA__TD<br>
 
