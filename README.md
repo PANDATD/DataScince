@@ -23,7 +23,7 @@ Contact us :-
 <hr>
 
 Mail me :- pandatd@protonmail.com <br>
-Follow us  on Instagram :- https://www.instagram.com/mr__punekar <br>
+Follow us  on Instagram :- https://www.instagram.com/_pandatd <br>
 Follow us  on Twitter :- https://www.twitter.com/PANDA__TD <br>
 
 <hr>
