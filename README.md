@@ -1,16 +1,19 @@
-# COODINGPANDA
+COODINGPANDA
+<hr>
 
-We are  doing new things in python 
-In this tutorial we are learning how to use
-Numpy pandas and matplotlib In Basic 
-Ok
+Prerequisites :- 
+Python3.x <br>
+Numpy and matplotlib basics<br>
 
+<hr>
 
-
-When you're using this repository or you are installing 
-My program 
 
 You need to do this :- 
-1 . Firstly you have python 3.x 
-2 .Then you have to install matplotlib , and numpy 
+
+<hr>
+
+1 .   Firstly you have install  python 3.x <br>
+2 .   Then you have to install matplotlib , and numpy <br>
+3 .   How type on terminal pip3 install matplotlib if your using Linux<br>
+      If you're using windows then type pip install matplotlib.<br>
 
