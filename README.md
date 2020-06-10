@@ -14,10 +14,3 @@ You need to do this :-
 1 . Firstly you have python 3.x 
 2 .Then you have to install matplotlib , and numpy 
 
-Contact me :- 
-
-Mail me :- pandatd@protonmail.com
-Follow us me on Instagram :- https://www.instagram.com/mr__punekar
-Follow us me on Twitter :- https://www.twitter.com/PANDA__TD
-
-CONTACT NO :- 7745014673
