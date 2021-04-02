@@ -24,4 +24,6 @@
 4. import pandas module
     ```python3 
        import pandas as pd
-5. and start exercise 
+5. and start exercise <br>
+
+- [ SubSet In Pandas ](my-pandas-tutorials/subset.ipynb)
