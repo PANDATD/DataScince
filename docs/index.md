@@ -1,7 +1,6 @@
+<myfont>
+  
 # Introducation to Stats for the Data Scince 
-
-
-
 ## What is Stats ? 
 ``` Stats is the scince of better orgnising and analysing the data.  ```
 
@@ -39,3 +38,4 @@ There are so many ways for taking the samples.
 - Stratified / Layered / Strata .
 - Systmatic . 
 - Conviniant .  
+<myfont>
