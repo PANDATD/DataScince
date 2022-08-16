@@ -1,12 +1,5 @@
 # Introducation to Stats for the Data Scince 
 
-<style>
-    
-    .main{
-        font-family: monospace ;
-        }
-</style>
-
 <div class='main'>
 
 ## What is Stats ? 
@@ -39,6 +32,7 @@ Inside this we want to know about the more folowing.
 2. **Samples (n)**
 
 ![Sample and Populetion Image]( popsample.jpg "Sample and Populetion Image") 
+
 
 There are so many ways for taking the samples. 
 - Random . 
