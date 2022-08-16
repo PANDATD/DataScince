@@ -1,15 +1,10 @@
 # Introducation to Stats for the Data Scince 
 
 <style>
+    
     .main{
         font-family: monospace ;
-        padding: 20 px ;
-        margin: 10px;
-        font-weight : 2px;
-        background:'black';
-        color:'green';
-
-    }
+        }
 </style>
 
 <div class='main'>
