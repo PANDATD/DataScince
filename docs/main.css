@@ -1,5 +1,6 @@
 <style>
 myfont{
-  font-family:monospace;
+  font-family:monospace, monaco;
+  color: red;
 }
-</style>
+<style>
