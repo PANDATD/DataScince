@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Introducation to Stats for the Data Scince 
 
-You can use the [editor on GitHub](https://github.com/PANDATD/DataScince/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## What is Stats ? 
+``` Stats is the scince of better orgnising and analysing the data.  ```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Why we are using the stats ?
+```For the better duscion making . ``` 
 
-```markdown
-Syntax highlighted code block
+Now, we know that the what is stats and why is used.<br> 
+But it has two different Types such as.
+- **Discreptive { Organising, Summarizing}**
+- **Infrancial {Conclusion on the data we have }**
 
-# Header 1
-## Header 2
-### Header 3
+## What is data ?
+It is fact of informetion that can be measured . it can be any. 
 
-- Bulleted
-- List
+``` 
+age = { 1,2,3,4,5,6,6,7,8 } 
+age is variable .
+and inside the curly braces is the data.
+``` 
+## What is variable ?
+A variable is the contanier which can holds the data .<br>
+Or we can say variable is property which can take any property.
 
-1. Numbered
-2. List
+Now we will deeply look inside the Discreptive stats.<br>
+Inside this we want to know about the more folowing.
 
-**Bold** and _Italic_ and `Code` text
+1. **Populetion (N)** 
+2. **Samples (n)**
 
-[Link](url) and ![Image](src)
-```
+![Sample and Populetion Image]( popsample.jpg "Sample and Populetion Image") 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PANDATD/DataScince/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+There are so many ways for taking the samples. 
+- Random . 
+- Stratified / Layered / Strata .
+- Systmatic . 
+- Conviniant .  
