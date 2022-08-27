@@ -39,3 +39,12 @@ There are so many ways for taking the samples.
 - Stratified / Layered / Strata .
 - Systmatic . 
 - Conviniant .  
+
+# Variables 
+	- Quantitive Variable (That can be measured numrical ,Ages)
+	- Qualitetevive / Cato gorial variable (color's , IQ) 
+	
+	- Quantitetevie variable has 2 types : 
+		- Discreat (Whole no, a/c no)
+		- Continious (Float, hight)
+
