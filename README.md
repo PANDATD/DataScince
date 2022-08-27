@@ -62,13 +62,15 @@ There are so many ways for taking the samples.
 	3. Interval data {Range} in range 
 
 # Frequency Distrobution :
-sample data = {
-	rose, lily, sunflower, rose , lily, rose
-} 
 
-flower  frequency  cumilitive frequency  
-Rose 		3			3
-lily 		2			5
-sunflower 	1 			6
+	sample data = {
+		rose, lily, sunflower, rose , lily, rose
+	} 
+
+	|flower  |frequency  |cumilitive frequency|  
+	------------------------------------------
+	|Rose 	   |3			|3|
+	|lily 	   |2			|5|
+	|sunflower |1 			|6|
 
 
