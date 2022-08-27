@@ -41,10 +41,34 @@ There are so many ways for taking the samples.
 - Conviniant .  
 
 # Variables 
-	- Quantitive Variable (That can be measured numrical ,Ages)
-	- Qualitetevive / Cato gorial variable (color's , IQ) 
-	
-	- Quantitetevie variable has 2 types : 
-		- Discreat (Whole no, a/c no)
-		- Continious (Float, hight)
+- Quantitive Variable (That can be measured numrical ,Ages)
+- Qualitetevive / Cato gorial variable (color's , IQ) 
+
+- Quantitetevie variable has 2 types : 
+	- Discreat (Whole no, a/c no)
+	- Continious (Float, hight)
+
+# Variable Masurment Scale :
+
+## There are 2 typess of variable 
+	1. Nominal data {Catagorial data } -> colors .
+	2. Ordinal data {The order matters but not value } -> for eg we have following eg.
+		marks  rank 
+		100		1
+		96		2	
+		50		3
+
+		In this case the rank matters but not value . 
+	3. Interval data {Range} in range 
+
+# Frequency Distrobution :
+sample data = {
+	rose, lily, sunflower, rose , lily, rose
+} 
+
+flower  frequency  cumilitive frequency  
+Rose 		3			3
+lily 		2			5
+sunflower 	1 			6
+
 
