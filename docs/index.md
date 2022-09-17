@@ -1,4 +1,4 @@
-<myfont>
+
   
 # Introducation to Stats for the Data Scince 
 ## What is Stats ? 
@@ -38,4 +38,4 @@ There are so many ways for taking the samples.
 - Stratified / Layered / Strata .
 - Systmatic . 
 - Conviniant .  
-<myfont>
+
