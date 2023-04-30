@@ -23,3 +23,9 @@ and the frequency of the each catogary is nothing but the Mode
 ### Median
 
 As we know about the Mean same like that but minor difference between the mean and median is that the median is more accurate than the mean if we have Outlier values in the dataset
+
+### Skewness
+
+**Skewness** is a measure of the asymmetry of the probability distribution of a real-valued random variable about its mean. The skewness value can be positive, zero, negative, or undefined.
+
+![Skewness ](public/skewness.png "Skewness")
